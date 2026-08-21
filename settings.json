@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "kingyassin12755-VBc8.aternos.me",
-    "port": 37755,
-    "version": "",
+    "ip": "kingyassin12755.aternos.me",
+    "port": 12206,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
